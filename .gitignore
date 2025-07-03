@@ -1,0 +1,17 @@
+# Node dependencies
+node_modules/
+
+# Logs
+logs
+*.log
+# Dependency directories
+
+# Coverage directory used by tools like istanbul
+coverage
+# Production
+build
+
+
+# Local env files
+#.env
+#.env.*

@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "istanbul": "^0.4.5",
+    "qunit-tap": "^1.5.1",
+    "qunitjs": "^2.4.0"
+  },
+  "dependencies": {
+    "jsdoc": "^4.0.4"
+  }
+}

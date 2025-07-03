@@ -6,5 +6,12 @@
   },
   "dependencies": {
     "jsdoc": "^4.0.4"
+  },
+  "scripts": {
+    "test": "istanbul cover test.js",
+    "open-coverage": "open ./coverage/lcov-report/index.html",
+    "start": "live-server --port=8000",
+    "docs": "jsdoc change.js",
+    "open-docs": "open ./out/global.html"
   }
 }
